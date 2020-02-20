@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8da7a21-32cf-4bb9-a6c9-d7c6f3264f74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mortgage_bank" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mortgage_bank" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mortgage_bank" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mortgage_bank" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mortgage_bank" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mortgage_bank" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Mort_bank" />
+  </component>
+  <component name="ProjectId" id="1Y1r93ZtQ9dgrwgAIRu7KatkdyS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+      <recent name="java" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.Tests.AddsCorrectAmmountOfCustomers">
+    <configuration name="Tests in 'mortgage_bank.test'" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests * --scan --debug" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;Tests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests.AddsCorrectAmmountOfCustomers" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;Tests.AddsCorrectAmmountOfCustomers&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests.LengthGreaterThanZero" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;Tests.LengthGreaterThanZero&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests.name" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;Tests.name&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="mortgage_bank [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests.AddsCorrectAmmountOfCustomers" />
+        <item itemvalue="Gradle.mortgage_bank [build]" />
+        <item itemvalue="Gradle.Tests" />
+        <item itemvalue="Gradle.Tests.LengthGreaterThanZero" />
+        <item itemvalue="Gradle.Tests.name" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8da7a21-32cf-4bb9-a6c9-d7c6f3264f74" name="Default Changelist" comment="" />
+      <created>1582120786695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582120786695</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="87" width="811" height="669" key="#Project_Structure" timestamp="1582121640751">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="320" y="87" width="811" height="669" key="#Project_Structure/0.23.1440.797@0.23.1440.797" timestamp="1582121640751" />
+    <state x="405" y="48" key="#Tests_in_'mortgage_bank.test'" timestamp="1582145434078">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="405" y="48" key="#Tests_in_'mortgage_bank.test'/0.23.1440.801@0.23.1440.801" timestamp="1582145434078" />
+    <state x="184" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582121695525">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="184" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1582121695525" />
+    <state x="681" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1582132188555">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="681" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797@0.23.1440.797" timestamp="1582132188555" />
+    <state x="585" y="147" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1582127849022">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="585" y="147" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.23.1440.797@0.23.1440.797" timestamp="1582127849022" />
+    <state x="606" y="175" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1582127950510">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="606" y="175" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1440.797@0.23.1440.797" timestamp="1582127950510" />
+    <state x="467" y="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582145385726">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="467" y="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.801@0.23.1440.801" timestamp="1582145385726" />
+    <state x="821" y="344" key="Github.CreateGistDialog" timestamp="1582209666446">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="821" y="344" key="Github.CreateGistDialog/0.23.1440.797@0.23.1440.797" timestamp="1582209666446" />
+    <state width="761" height="191" key="GridCell.Tab.0.bottom" timestamp="1582193563229">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="761" height="191" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1582193563229" />
+    <state width="1378" height="191" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1582150788121" />
+    <state width="1378" height="191" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1582153658535" />
+    <state width="761" height="191" key="GridCell.Tab.0.center" timestamp="1582193563228">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="761" height="191" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1582193563228" />
+    <state width="1378" height="191" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1582150788121" />
+    <state width="1378" height="191" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1582153658535" />
+    <state width="761" height="191" key="GridCell.Tab.0.left" timestamp="1582193563228">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="761" height="191" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1582193563228" />
+    <state width="1378" height="191" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1582150788120" />
+    <state width="1378" height="191" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1582153658535" />
+    <state width="761" height="191" key="GridCell.Tab.0.right" timestamp="1582193563228">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="761" height="191" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1582193563228" />
+    <state width="1378" height="191" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1582150788121" />
+    <state width="1378" height="191" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1582153658535" />
+    <state width="1378" height="237" key="GridCell.Tab.1.bottom" timestamp="1582153658523">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1378" height="237" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1582153658523" />
+    <state width="1378" height="237" key="GridCell.Tab.1.center" timestamp="1582153658523">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1378" height="237" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1582153658523" />
+    <state width="1378" height="237" key="GridCell.Tab.1.left" timestamp="1582153658522">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1378" height="237" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1582153658522" />
+    <state width="1378" height="237" key="GridCell.Tab.1.right" timestamp="1582153658523">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1378" height="237" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1582153658523" />
+    <state x="248" y="83" key="Maven.ArtifactSearchDialog" timestamp="1582188658641">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="248" y="83" key="Maven.ArtifactSearchDialog/0.23.1440.797@0.23.1440.797" timestamp="1582188658641" />
+    <state x="211" y="60" key="SettingsEditor" timestamp="1582145658181">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="211" y="60" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1582145658181" />
+    <state x="397" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1582209558211">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="397" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1582209558211" />
+    <state x="766" y="215" key="extract.method.dialog" timestamp="1582145272290">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="606" y="181" key="extract.method.dialog/0.23.1440.797@0.23.1440.797" timestamp="1582130164166" />
+    <state x="766" y="215" key="extract.method.dialog/0.23.1440.801@0.23.1440.801" timestamp="1582145272290" />
+    <state x="301" y="23" width="837" height="798" key="find.popup" timestamp="1582122699584">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="301" y="23" width="837" height="798" key="find.popup/0.23.1440.798@0.23.1440.798" timestamp="1582122699584" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1582131241207">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.797@0.23.1440.797" timestamp="1582131241207" />
+    <state x="375" y="191" width="670" height="675" key="run.anything.popup" timestamp="1582150788071">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="375" y="191" width="670" height="675" key="run.anything.popup/0.23.1440.798@0.23.1440.798" timestamp="1582150788071" />
+    <state x="533" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1582129437273">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="533" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1582129437273" />
+  </component>
+</project>
